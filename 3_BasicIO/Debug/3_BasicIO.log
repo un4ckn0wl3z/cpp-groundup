@@ -1,0 +1,15 @@
+﻿Build started 12/28/2019 9:16:20 PM.
+     1>Project "c:\Users\anuwat\documents\visual studio 2013\Projects\JunkCPP\3_BasicIO\3_BasicIO.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\anuwat\documents\visual studio 2013\projects\junkcpp\3_basicio\main.cpp(21): warning C4101: 'num3' : unreferenced local variable
+     1>c:\users\anuwat\documents\visual studio 2013\projects\junkcpp\3_basicio\main.cpp(20): warning C4101: 'num2' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\anuwat\documents\visual studio 2013\Projects\JunkCPP\Debug\3_BasicIO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\anuwat\documents\visual studio 2013\Projects\JunkCPP\Debug\3_BasicIO.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\anuwat\documents\visual studio 2013\Projects\JunkCPP\Debug\3_BasicIO.lib" /MACHINE:X86 Debug\Main.obj
+         3_BasicIO.vcxproj -> c:\users\anuwat\documents\visual studio 2013\Projects\JunkCPP\Debug\3_BasicIO.exe
+     1>Done Building Project "c:\Users\anuwat\documents\visual studio 2013\Projects\JunkCPP\3_BasicIO\3_BasicIO.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88
